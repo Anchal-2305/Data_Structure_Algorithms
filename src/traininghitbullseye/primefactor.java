@@ -1,4 +1,4 @@
-package hitbullseye;
+package traininghitbullseye;
 
 public class primefactor {
     public static boolean isprime(int n){

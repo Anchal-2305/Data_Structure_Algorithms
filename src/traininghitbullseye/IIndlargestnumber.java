@@ -1,4 +1,4 @@
-package hitbullseye;
+package traininghitbullseye;
 
 public class IIndlargestnumber {
     public static void main(String[] args) {

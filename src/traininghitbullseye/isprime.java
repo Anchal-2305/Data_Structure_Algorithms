@@ -1,4 +1,4 @@
-package hitbullseye;
+package traininghitbullseye;
 
 public class isprime {
         public static boolean isprime(int n){

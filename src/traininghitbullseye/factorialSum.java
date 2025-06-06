@@ -1,4 +1,4 @@
-package hitbullseye;
+package traininghitbullseye;
     public class factorialSum{
 
         public static int factorial(int n) {

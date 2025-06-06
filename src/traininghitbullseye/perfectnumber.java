@@ -1,4 +1,4 @@
-package hitbullseye;
+package traininghitbullseye;
 
 public class perfectnumber {
     public static boolean isPerfect(int n) {

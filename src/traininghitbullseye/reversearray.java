@@ -1,4 +1,4 @@
-package hitbullseye;
+package traininghitbullseye;
 
 import java.util.Arrays;
 
